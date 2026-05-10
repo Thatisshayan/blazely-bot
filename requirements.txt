@@ -1,3 +1,0 @@
-python-telegram-bot[webhooks,job-queue]==21.5
-aiohttp==3.9.5
-python-dotenv==1.0.1
