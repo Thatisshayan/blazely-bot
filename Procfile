@@ -1,1 +1,1 @@
-worker: python blazely_bot.py
+web: python blazely_bot_v3.py
